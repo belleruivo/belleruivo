@@ -1,13 +1,10 @@
-## Olá! Seja bem-vindo(a)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=230&section=header&text=Olá,%20seja%20bem-vindo.&fontSize=70&fontColor=d83b7d&animation=fadeIn&fontAlignY=38&desc=Beginner%20Front-end%20developer&descAlignY=55&descAlign=62)
 
-- 🔭 Curso o 3ºAno de Informática para Internet na Etec
-- 🌱 Estudando JavaScript
-- 😄 Pronouns: ela/dela
+- 🔭 Cursando o 3ºAno de Informática para Internet na Etec.
 
 <div align="center">
   <a href="https://github.com/belleruivo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belleruivo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belleruivo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belleruivo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
