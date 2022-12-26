@@ -6,6 +6,7 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
+  <h2 align="center">Linguagens e Tecnologias que eu utilizo:</h2>
   <img align="center" alt="Isa-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Isa-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
