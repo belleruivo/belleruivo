@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=230&section=header&text=Olá,%20seja%20bem-vindo.&fontSize=70&fontColor=d83b7d&animation=fadeIn&fontAlignY=38&desc=Beginner%20Front-end%20developer&descAlignY=55&descAlign=62)
 
-- 🔭 Cursando o 3ºAno de Informática para Internet na Etec.
-
 <div align="center">
   <a href="https://github.com/belleruivo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belleruivo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -14,8 +12,6 @@
   <img align="center" alt="Isa-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Isa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
-  
-##
 
 <div align="center">
 
