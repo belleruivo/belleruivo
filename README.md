@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=230&section=header&text=Olá,%20seja%20bem-vindo.&fontSize=70&fontColor=d83b7d&animation=fadeIn&fontAlignY=38&desc=Beginner%20FullStack%20Dev&descAlignY=55&descAlign=62)
-
 <img align="center" alt="Isa-gif" height="500" width="1000" src="https://64.media.tumblr.com/74535518115cc6e41b3489fa5c7929c8/tumblr_ol7e617sCb1tgo74ho1_1280.gif">
 
 <div align="center">
   <a href="https://github.com/belleruivo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belleruivo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belleruivo&layout=compact&langs_count=7&theme=radical"/>-->
 </div>
 
 <div align="center" style="display: inline_block"><br>
