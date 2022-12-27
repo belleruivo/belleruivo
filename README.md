@@ -12,6 +12,7 @@
   <img align="center" alt="Isa-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Isa-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Isa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Isa-VsCode" height="30" width="40" src="https://cdn.simpleicons.org/visualstudio/1C6B94"> 
 </div>
 
    <h2 align="center">Entre em contato através de uma das redes sociais:</h2>
