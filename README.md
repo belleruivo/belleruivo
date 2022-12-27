@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=230&section=header&text=Olá,%20seja%20bem-vindo.&fontSize=70&fontColor=d83b7d&animation=fadeIn&fontAlignY=38&desc=Beginner%20Front-end%20developer&descAlignY=55&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=230&section=header&text=Olá,%20seja%20bem-vindo.&fontSize=70&fontColor=d83b7d&animation=fadeIn&fontAlignY=38&desc=Beginner%20FullStack%20Dev&descAlignY=55&descAlign=62)
 
 <div align="center">
   <a href="https://github.com/belleruivo">
