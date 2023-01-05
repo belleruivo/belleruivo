@@ -3,12 +3,6 @@
 
  ***************
 
-<div align="center">
-  <a href="https://github.com/belleruivo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belleruivo&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-   <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belleruivo&layout=compact&langs_count=7&theme=radical"/>-->
-</div>
-
 <div align="center" style="display: inline_block">
   <h1 align="center">Linguagens e Tecnologias que eu utilizo:</h1>
   <img align="center" alt="Isa-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
