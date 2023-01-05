@@ -1,6 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=230&section=header&text=Olá,%20seja%20bem-vindo.&fontSize=70&fontColor=f26522&animation=fadeIn&fontAlignY=38&desc=Beginner%20FullStack%20Dev&descAlignY=55&descAlign=62)
 <img align="center" alt="Isa-gif" height="500" width="1000" src="https://64.media.tumblr.com/74535518115cc6e41b3489fa5c7929c8/tumblr_ol7e617sCb1tgo74ho1_1280.gif">
 
+<div align="center">
+  
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=belleruivo&color=blueviolet&style=plastic)
+  
+</div>
+
+<div align="center">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=belleruivo&show_icons=true&theme=dracula"> 
+</div>
+
  ***************
 
 <div align="center" style="display: inline_block">
