@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=belleruivo&color=blueviolet&style=plastic)
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=belleruivo&color=f26522&style=plastic)
   
 </div>
 
