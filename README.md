@@ -9,8 +9,10 @@
 
 <div align="center">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=belleruivo&show_icons=true&theme=transparent"> 
-   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belleruivo&layout=compact&theme=transparent"> 
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belleruivo&layout=compact&theme=transparent"> 
 </div>
+<br>
+<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=belleruivo&theme=transparent" alt="belleruivo" /></div>
 
  ***************
 
