@@ -30,10 +30,8 @@
 <img align="center" alt="Isa-Cypress" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cypress.svg">
 <img align="center" alt="Isa-Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
 <img align="center" alt="Isa-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-
+<img align="center" alt="Isa-VsCode" height="30" width="40" src="https://cdn.simpleicons.org/visualstudio/1C6B94"> 
 </p>
-  
-  <img align="center" alt="Isa-VsCode" height="30" width="40" src="https://cdn.simpleicons.org/visualstudio/1C6B94"> 
 </div>
 
    <h1 align="center">Entre em contato através de uma das redes sociais:</h1>
