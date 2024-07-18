@@ -25,6 +25,12 @@
 <img align="center" alt="Isa-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 <img align="center" alt="Isa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
+<h4 align="left">Trabalho com:</h3>
+<img align="center" alt="Isa-Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+<img align="center" alt="Isa-Cypress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg">
+<img align="center" alt="Isa-Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+<img align="center" alt="Isa-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+
 </p>
   
   <img align="center" alt="Isa-VsCode" height="30" width="40" src="https://cdn.simpleicons.org/visualstudio/1C6B94"> 
