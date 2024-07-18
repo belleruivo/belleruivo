@@ -10,13 +10,13 @@
 
 <h3 align="left">Tecnologias, Linguagens e Ferramentas que utilizo ou possuo conhecimento:</h3>
 <p align="left">
-<h4 align="left">Front-end</h3>
+<h4 align="left">Front-end e ferramentas para desenvolvimento de interfaces:</h3>
 <img align="center" alt="Isa-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Isa-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
-<h4 align="left">Back-end</h3>
+<h4 align="left">Back-end e frameworks para desenvolvimento de servidores e aplicações:</h3>
 <img align="center" alt="Isa-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 <img align="center" alt="Isa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="Isa-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -25,7 +25,7 @@
 <img align="center" alt="Isa-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 <img align="center" alt="Isa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
-<h4 align="left">Trabalho com:</h3>
+<h4 align="left">Eu trabalho com:</h3>
 <img align="center" alt="Isa-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 <img align="center" alt="Isa-Cypress" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cypress.svg">
 <img align="center" alt="Isa-Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
