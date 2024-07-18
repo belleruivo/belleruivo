@@ -2,7 +2,7 @@
 
 - Desenvolvedora Web Full-Stack 👩🏻‍💻
 - Técnica em Informática para Internet 🎓
-- Acadêmica em Análise e desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP) - 1°Período 📔
+- Acadêmica em Análise e desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP) - 1°Período 📚
 
 <div align="center">
   
