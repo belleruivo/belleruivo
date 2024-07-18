@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=023c9b&height=230&section=header&text=Olá,%20seja%20bem-vindo.&fontSize=70&fontColor=f26522&animation=fadeIn&fontAlignY=38&desc=%20FullStack%20Dev&descAlignY=55&descAlign=62)
-<img align="center" alt="Isa-gif" height="500" width="1000" src="https://64.media.tumblr.com/74535518115cc6e41b3489fa5c7929c8/tumblr_ol7e617sCb1tgo74ho1_1280.gif">
+## opa, seja bem-vindo(a) ao meu GitHub!
 
 <div align="center">
   
