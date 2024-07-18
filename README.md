@@ -1,4 +1,7 @@
-## Opa, seja bem-vindo(a) ao meu GitHub! 🍷🫡
+<h1>Opa, seja bem-vindo(a) ao meu GitHub! 🍷🫡</h1>
+
+- Desenvolvedora Web Full-Stack
+- Acadêmica em Análise e desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP) - 1°Período
 
 <div align="center">
   
