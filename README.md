@@ -15,7 +15,7 @@
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belleruivo&layout=compact&theme=transparent"> 
 </div>
 <br>
-<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=belleruivo&theme=dark" alt="belleruivo" /></div>
+<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=belleruivo&theme=transparent" alt="belleruivo" /></div>
 
  ***************
 
