@@ -6,7 +6,7 @@
 
 ***************
 
-<div align="center" style="display: inline_block">
+<div style="display: inline_block">
 
 <h3 align="left">Tecnologias, Linguagens e Ferramentas que utilizo ou possuo conhecimento:</h3>
 <p align="left">
