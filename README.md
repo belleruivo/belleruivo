@@ -1,4 +1,4 @@
-## opa, seja bem-vindo(a) ao meu GitHub!
+## Opa, seja bem-vindo(a) ao meu GitHub! 🍷🫡
 
 <div align="center">
   
