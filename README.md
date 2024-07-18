@@ -4,20 +4,7 @@
 - Técnica em Informática para Internet 🎓
 - Acadêmica em Análise e desenvolvimento de Sistemas no Instituto Federal de São Paulo (IFSP) - 1°Período 📚
 
-<div align="center">
-  
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=belleruivo&color=f26522&style=plastic)
-  
-</div>
-
-<div align="center">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=belleruivo&show_icons=true&theme=transparent"> 
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belleruivo&layout=compact&theme=transparent"> 
-</div>
-<br>
-<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=belleruivo&theme=transparent" alt="belleruivo" /></div>
-
- ***************
+***************
 
 <div align="center" style="display: inline_block">
   <h1 align="center">Linguagens e Tecnologias que eu utilizo:</h1>
@@ -36,3 +23,16 @@
    <a href="https://instagram.com/iswwruivo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:isabelleruivosantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isabelle-ruivo-dos-santos-b40806243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<div align="center">
+  
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=belleruivo&color=f26522&style=plastic)
+  
+</div>
+
+<div align="center">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=belleruivo&show_icons=true&theme=transparent"> 
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belleruivo&layout=compact&theme=transparent"> 
+</div>
+<br>
+<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=belleruivo&theme=transparent" alt="belleruivo" /></div>
