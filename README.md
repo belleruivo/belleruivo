@@ -1,4 +1,4 @@
-<h1>Opa, seja bem-vindo(a) ao meu GitHub! 🍷🫡</h1>
+<h1>Seja bem-vindo(a) ao meu GitHub! 🍷🫡</h1>
 
 - Desenvolvedora Web Full-Stack 👩🏻‍💻
 - Técnica em Informática para Internet 🎓
