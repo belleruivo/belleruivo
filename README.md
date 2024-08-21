@@ -2,7 +2,7 @@
 
 - Full-Stack Web Developer 👩🏻‍💻
 - IT Technique for the Internet 🎓
-- Academic in Systems Analysis and Development at the Federal Institute of São Paulo (IFSP) - 1st Period 📚
+- Academic in Systems Analysis and Development at the Federal Institute of São Paulo (IFSP) - 2nd Period 📚
 
 ***************
 
