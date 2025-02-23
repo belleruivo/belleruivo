@@ -2,7 +2,7 @@
 
 - Full-Stack Web Developer 👩🏻‍💻
 - IT Technique for the Internet 🎓
-- Academic in Systems Analysis and Development at the Federal Institute of São Paulo (IFSP) - 2nd Period 📚
+- Academic in Systems Analysis and Development at the Federal Institute of São Paulo (IFSP) - 3rd Period 📚
 
 ***************
 
@@ -28,11 +28,6 @@
    <img align="center" alt="Isa-Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
    <img align="center" alt="Isa-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
-   <h4 align="left">I work with:</h3>
-   <img align="center" alt="Isa-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-   <img align="center" alt="Isa-Cypress" height="30" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/cypress.svg">
-   <img align="center" alt="Isa-Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
-   <img align="center" alt="Isa-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 </p>
 </div>
 
