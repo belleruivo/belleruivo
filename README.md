@@ -2,7 +2,7 @@
 
 - Full-stack Developer 👩🏻‍💻
 - IT Technique for the Internet 🎓
-- Undergraduate Student in Systems Analysis and Development at the Federal Institute of São Paulo (IFSP) – 4th Semester 📚 📚
+- Undergraduate Student in Systems Analysis and Development at the Federal Institute of São Paulo (IFSP) – 4th Semester 📚
 
 ***************
 
