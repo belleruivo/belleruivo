@@ -1,8 +1,8 @@
 <h1>Welcome to my GitHub! 🫡</h1>
 
-- Full-Stack Web Developer 👩🏻‍💻
+- Full-stack Developer 👩🏻‍💻
 - IT Technique for the Internet 🎓
-- Academic in Systems Analysis and Development at the Federal Institute of São Paulo (IFSP) - 3rd Period 📚
+- Undergraduate Student in Systems Analysis and Development at the Federal Institute of São Paulo (IFSP) – 4th Semester 📚 📚
 
 ***************
 
