@@ -14,18 +14,14 @@
 </div>
 
 <div align="center">
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=belleruivo&show_icons=true&count_private=true&hide_border=true&title_color=9966CC&icon_color=9966CC&text_color=c9d1d9&bg_color=0d1117" alt="Isabelle's GitHub stats" />
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belleruivo&layout=compact&hide_border=true&title_color=9966CC&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=belleruivo&show_icons=true&count_private=true&hide_border=false&title_color=4A90E2&icon_color=4A90E2&text_color=c9d1d9&bg_color=0d1117&border_color=4A90E2" alt="Isabelle's GitHub stats" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belleruivo&layout=compact&hide_border=false&title_color=4A90E2&text_color=c9d1d9&bg_color=0d1117&border_color=4A90E2" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=belleruivo&theme=dark&hide_border=true&stroke=9966CC&ring=9966CC&fire=9966CC&currStreakLabel=9966CC" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=belleruivo&theme=dark&hide_border=false&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2&border=4A90E2" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=belleruivo&color=9966CC&style=flat-square&label=Visualizações+do+perfil" alt="Profile views" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
