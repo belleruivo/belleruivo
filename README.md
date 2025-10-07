@@ -2,7 +2,7 @@
 
 📚 **Cursando Análise e Desenvolvimento de Sistemas no IFSP - 4º Semestre**
 
-👩🏻‍🎓 **Formada em Informática para Internet pela ETEC de Santa Isabel**
+🎓 **Formada em Informática para Internet pela ETEC de Santa Isabel**
 
 <hr>
 <div align="center">
