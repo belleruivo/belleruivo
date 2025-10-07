@@ -2,7 +2,7 @@
 
 📚 **Cursando Análise e Desenvolvimento de Sistemas no IFSP - 4º Semestre**
 
-🎓 **Formada em Informática para Internet pela ETEC de Santa Isabel**
+👩🏻‍🎓 **Formada em Informática para Internet pela ETEC de Santa Isabel**
 
 <hr>
 <div align="center">
@@ -14,14 +14,18 @@
 </div>
 
 <div align="center">
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=belleruivo&show_icons=true&count_private=true&hide_border=false&title_color=4A90E2&icon_color=4A90E2&text_color=c9d1d9&bg_color=0d1117&border_color=4A90E2" alt="Isabelle's GitHub stats" />
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belleruivo&layout=compact&hide_border=false&title_color=4A90E2&text_color=c9d1d9&bg_color=0d1117&border_color=4A90E2" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=belleruivo&show_icons=true&count_private=true&hide_border=false&title_color=4A90E2&icon_color=4A90E2&text_color=c9d1d9&bg_color=0d1117&border_color=4A90E2" alt="Isabelle's GitHub stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belleruivo&layout=compact&hide_border=false&title_color=4A90E2&text_color=c9d1d9&bg_color=0d1117&border_color=4A90E2" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=belleruivo&theme=dark&hide_border=false&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2&border=4A90E2" alt="GitHub Streak" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=belleruivo&color=9966CC&style=flat-square&label=Visualizações+do+perfil" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=belleruivo&color=4A90E2&style=flat-square&label=Visualizações+do+perfil" alt="Profile views" />
 </div>
