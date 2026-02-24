@@ -1,6 +1,6 @@
 👩🏻‍💻 **Estagiária de Tecnologia e Negócios na Cielo**
 
-📚 **Cursando Análise e Desenvolvimento de Sistemas no IFSP - 4º Semestre**
+📚 **Cursando Análise e Desenvolvimento de Sistemas no IFSP - 5º Semestre**
 
 🎓 **Formada em Informática para Internet pela ETEC de Santa Isabel**
 
